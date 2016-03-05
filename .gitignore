@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/codeblocks
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.cbp
+*.layout
+*.depend
+
+*.txt
+
+# generated directories
+bin/
+obj/
